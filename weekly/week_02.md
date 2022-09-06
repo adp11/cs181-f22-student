@@ -45,7 +45,7 @@ We will be spending Friday reviewing over zoom, so the due date of HW 1.e is pus
 
 ## Tuesday Software Lab
 
-In the second software lab, we'll explore dictionaries as well as the dictionary-of-lists (DoL) representation of data.
+In the [second software lab](../sw_lab/lab_02/README.md), we'll explore dictionaries as well as the dictionary-of-lists (DoL) representation of data.
 
 As we won't have in-person class or office hours Friday, the software lab checkoffs are also due Monday (at 4pm).
 
