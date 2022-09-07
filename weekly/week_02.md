@@ -27,7 +27,7 @@ Monday: Refresh various Python patterns (e.g., accumulation) using lists.
 
 Tuesday: Review/learn about dictionaries and build dictionary-of-list representations of data.  
 
-Wednesday: Learn about functions as objects, lambda functions, and ilst comprehensions.
+Wednesday: Learn about functions as objects, lambda functions, and list comprehensions.
 
 Friday: Optional review Q&A over zoom.
 
@@ -39,7 +39,7 @@ HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_1.c](../hw/HW_1.c/README.md) | Friday (9/2) | Monday (9/5) | Python review (cont'd), file processing
 [HW_1.d](../hw/HW_1.d/README.md) | Monday (9/5) | Wednesday (9/7) | Common list patterns
-HW_1.e | Wednesday (9/7) | Monday (9/12) | Functions as objects, lambda functions, and list comprehensions
+[HW_1.e](../hw/HW_1.e/README.md) | Wednesday (9/7) | Monday (9/12) | Functions as objects, lambda functions, and list comprehensions
 
 We will be spending Friday reviewing over zoom, so the due date of HW 1.e is pushed back to Monday (at 11:59pm).
 
