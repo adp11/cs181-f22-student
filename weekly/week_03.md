@@ -41,7 +41,7 @@ HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 
 ## Tuesday Software Lab
 
-In the third software lab, we'll review the DoL, LoL, and LoD data representations and practice converting between them.
+In the [third software lab](../sw_lab/lab_03/README.md), we'll review the DoL, LoL, and LoD data representations and practice converting between them.
 
 ---
 
