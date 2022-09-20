@@ -35,9 +35,9 @@ Friday: Consider row selection and more complex row and column combinations.  Al
 HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.a](../hw/HW_2.a/README.md) | Monday (9/19) | Wednesday (9/21) | Tidy data
-HW_2.b | Wednesday (9/21) | Friday (9/23) | Access combinations
-HW_2.c | Friday (9/23) | Monday (9/26) | Row selection, complex access combinations
+[HW_2.b](../hw/HW_2.b/README.md) | Wednesday (9/21) | Friday (9/23) | Column projection and vector operations
+[HW_2.c](../hw/HW_2.c/README.md) | Friday (9/23) | Monday (9/26) | Row selection, complex access combinations
 
 ## Tuesday Software Lab
 
-In the fourth software lab, we'll explore using `pandas` to create data frames, explore their metadata, and sort them based on a given variable's values.
+In the [fourth software lab](../sw_lab/lab_04/README.md), we'll explore using `pandas` to create data frames, explore their metadata, and sort them based on a given variable's values.
