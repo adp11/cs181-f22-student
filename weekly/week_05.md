@@ -46,4 +46,4 @@ HW_2.f | Friday (9/30) | Monday (10/3) | Transpose, melt, normalization I
 
 ## Tuesday Software Lab
 
-In the fifth software lab, we'll explore our second advanced tabular operation: mutation.  We'll look at deleting one or more columns or rows, adding a column to an existing `DataFrame`, and updating all or some values within an existng column.
+In the [fifth software lab](../sw_lab/lab_05/README.md), we'll explore our second advanced tabular operation: mutation.  We'll look at deleting one or more columns or rows, adding a column to an existing `DataFrame`, and updating all or some values within an existng column.
