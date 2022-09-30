@@ -41,7 +41,7 @@ HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.c](../hw/HW_2.c/README.md) | Friday (9/23) | Monday (9/26) | Row selection, complex access combinations
 [HW_2.d](../hw/HW_2.d/README.md) | Monday (9/26) | Wednesday (9/28) | Aggregation and GroupBy
-HW_2.e | Wednesday (9/28) | Friday (9/30)    | Table combining
+[HW_2.e](../hw/HW_2.e/README.md) | Wednesday (9/28) | Friday (9/30)    | Table combining
 HW_2.f | Friday (9/30) | Monday (10/3) | Transpose, melt, normalization I
 
 ## Tuesday Software Lab
