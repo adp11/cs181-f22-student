@@ -45,4 +45,4 @@ __Note__: Because of Fall Break on Monday 10/17 and Tuesday 10/18, the homework 
 
 ## Tuesday Software Lab
 
-In the seventh software lab, we'll practice working with JSON via JSON-based COVID-19 data processing.
+In the [seventh software lab](../sw_lab/lab_07/README.md), we'll practice working with JSON via JSON-based COVID-19 data processing.
