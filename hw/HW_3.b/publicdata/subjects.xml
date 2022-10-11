@@ -1,0 +1,14 @@
+<subjects>
+    <subject acronym="CS">
+        <name>Computer Science</name>
+        <department>CS</department>
+    </subject>
+    <subject acronym="MATH">
+        <name>Mathematics</name>
+        <department>MATH</department>
+    </subject>
+    <subject acronym="ENGL">
+        <name>English Literature</name>
+        <department>ENGL</department>
+    </subject>
+</subjects>

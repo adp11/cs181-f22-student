@@ -1,0 +1,12 @@
+<subjects>
+    <subject acronym="CS">
+        <coursenum title="Intermediate Computer Science">173</coursenum>
+        <coursenum title="Operating Systems">372</coursenum>
+    </subject>
+    <subject acronym="MATH">
+        <coursenum title="Introduction to Proofs">300</coursenum>
+    </subject>
+    <subject acronym="ENGL">
+        <coursenum title="Early British Literature">213</coursenum>
+    </subject>
+</subjects>
