@@ -38,7 +38,7 @@ HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_3.a](../hw/HW_3.a/README.md) | Friday (10/7) | Monday (10/9) | JSON
 [HW_3.b](../hw/HW_3.b/README.md) | Monday (10/10) | Wednesday (10/12) | XML
-HW_3.c | Wednesday (10/12)  | Friday (10/14) | XML procedural operations
+[HW_3.c](../hw/HW_3.c/README.md) | Wednesday (10/12)  | Friday (10/14) | XML procedural operations
 HW_3.d | Friday (10/14) | Friday (10/21) | XPath
 
 __Note__: Because of Fall Break on Monday 10/17 and Tuesday 10/18, the homework based on Friday's class (10/14) will not be due until the following Friday.
