@@ -38,4 +38,6 @@ HW_4.b | Wednesday (11/2) | Monday (11/7) | Single-Table SQL Vector Operations, 
 
 ## Tuesday Software Lab
 
-In the tenth software lab, we'll continue introducing SQL with single-table selection queries.
+In the [tenth software lab](../sw_lab/lab_10/README.md), we'll continue introducing SQL with single-table selection queries.
+
+_Note:_ Due to our project workday on Friday, this week's software lab won't be due until the following Monday (November 7th) at 4pm.
