@@ -34,7 +34,7 @@ Friday: No class -- spend the time working on your final project!
 HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_4.a](../hw/HW_4.a/README.md) | Monday (10/31) | Wednesday (11/2) | Single-Table Column Projections
-HW_4.b | Wednesday (11/2) | Monday (11/7) | Single-Table SQL Vector Operations, Partitioning, and Aggregation
+[HW_4.b](../hw/HW_4.b/README.md) | Wednesday (11/2) | Monday (11/7) | Single-Table SQL Vector Operations, Partitioning, and Aggregation
 
 ## Tuesday Software Lab
 
