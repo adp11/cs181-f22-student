@@ -42,4 +42,4 @@ HW_4.e | Friday (11/11) | Monday (11/14) | Relational database design
 
 ## Tuesday Software Lab
 
-In the eleventh software lab, we'll explore multi-table SQL queries, including more complex inner joins, as well as different types of outer joins.
+In the [eleventh software lab](../sw_lab/lab_11/README.md), we'll explore multi-table SQL queries, including more complex inner joins, as well as different types of outer joins.
