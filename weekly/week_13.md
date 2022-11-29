@@ -44,4 +44,4 @@ HW_5.c | Friday (12/2) | Monday (12/5) | CSV and XML request processing
 
 ## Tuesday Software Lab
 
-In the thirteenth software lab, we'll explore Python's `requests` module (`GET` and `POST`).
+In the [thirteenth software lab](../sw_lab/lab_13/README.md), we'll explore Python's `requests` module (`GET` and `POST`).
