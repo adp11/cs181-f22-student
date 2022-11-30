@@ -39,7 +39,7 @@ Friday: We will discuss how to transform the body of an HTTP response into the d
 HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_5.a](../hw/HW_5.a/README.md) | Monday (11/28) | Wednesday (11/30) | HTTP fundamentals
-HW_5.b | Wednesday (11/30) | Friday (12/2) | encodings
+[HW_5.b](../hw/HW_5.b/README.md) | Wednesday (11/30) | Friday (12/2) | encodings
 HW_5.c | Friday (12/2) | Monday (12/5) | CSV and XML request processing
 
 ## Tuesday Software Lab
