@@ -43,4 +43,4 @@ HW_5.e | Friday (12/9) | Monday (12/12) | AuthN and HTTPS
 
 ## Tuesday Software Lab
 
-In the fourteenth software lab, we'll continue to explore data acquisition via APIs.
+In the [fourteenth software lab](../sw_lab/lab_14/README.md), we'll continue to explore data acquisition via APIs.
